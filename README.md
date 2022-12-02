@@ -1,0 +1,2 @@
+# GryliaYanethChataIscarra-Trabajos_Computacion_Paralela_UNIT_1_y_2
+trabajos de computacion paralela
